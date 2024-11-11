@@ -1,0 +1,30 @@
+{
+  "imageReplacements": {
+    "https://i1.jbzd.com.pl/users/large/19216bZqTpEFhKX4J1aYc0Ck6Fss46er.jpg": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemswN3Noc2k4aTN3bGZyY3QzbGdhaGxmN3JtOXlhZTRoazEyaTBndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif",
+    "https://i1.jbzd.com.pl/users/small/19216bZqTpEFhKX4J1aYc0Ck6Fss46er.jpg": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemswN3Noc2k4aTN3bGZyY3QzbGdhaGxmN3JtOXlhZTRoazEyaTBndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif",
+    "https://jbzd.com.pl/images/404.png": "https://i.imgur.com/VnRnGjj.png",
+    "https://i1.jbzd.com.pl/users/default.jpg": "https://i.imgur.com/DxOWWwX.png",
+    "https://jbzd.com.pl/images/video-age-18.png": "https://i.imgur.com/QrgAOmq.png",
+    "https://jbzd.com.pl/images/video-age-0.png": "https://i.imgur.com/dAqdMUd.png",
+    "https://jbzd.com.pl/images/sprites.png?7123b82ab0c6168fd70c1005e5cd75e2": "https://i.imgur.com/Bxmcxhq.png",
+    "https://i1.jbzd.com.pl/users/small/rB6ausBG3Uyr6Wh9.jpg": "https://i.imgur.com/hgl1rWQ.png",
+    "https://i1.jbzd.com.pl/users/large/rB6ausBG3Uyr6Wh9.jpg": "https://i.imgur.com/hgl1rWQ.png"
+  },
+  "avatarReplacements": {
+    "https://i1.jbzd.com.pl/users/small/19216bZqTpEFhKX4J1aYc0Ck6Fss46er.jpg": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemswN3Noc2k4aTN3bGZyY3QzbGdhaGxmN3JtOXlhZTRoazEyaTBndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif"
+  },
+  "nicknames": {
+    "TempleOS": {
+      "replacementText": "𝕿𝖊𝖒𝖕𝖑𝖊𝕺𝕾",
+      "color": "rgb(0, 139, 139)"
+    },
+    "saguaro44": {
+      "replacementText": "Ogurasso",
+      "color": "rgb(0, 139, 139)"
+  }
+  },
+  "iconReplacements": {
+    "/images/icon-search-filled.svg": "https://i.imgur.com/hBRFvt2.png",
+    "/coins/coin.png": "https://i.imgur.com/z5Fgrko.png"
+  }
+}
